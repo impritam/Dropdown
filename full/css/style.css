@@ -1,0 +1,66 @@
+body{
+	padding-bottom: 30px;
+
+	
+}
+
+.pos{
+	text-align: center;
+}
+.icon{
+	font-size: 30px;
+
+
+}
+.ican{
+	font-size: 30px;
+
+
+}
+.btn-pos{
+	text-align: center;
+	padding-top: 30px;
+	padding-bottom: 30px;
+}
+
+h1{
+	cursor: pointer;
+}
+.row-3 h1{
+	background-color: #8fdb2b;
+	color: white;
+	padding: 3px 3px;
+}
+.row-3 p{
+	background-color: #f1f1f1;
+}
+p{
+	color: green;
+	font-size: 22px;
+}
+.mob{
+	transition: 0.6s all ease;
+}
+.car{
+	transition: 0.6s all ease;
+}
+.graphic{
+	transition: 0.6s all ease;
+}
+.web{
+	transition: 0.6s all ease;
+}
+.mob:hover{
+	transform: rotate(-360deg);
+}
+.car:hover{
+	transform: rotate(360deg);
+}
+
+.graphic:hover{
+	transform: rotate(-360deg);
+}
+
+.web:hover{
+	transform: rotate(360deg);
+}
